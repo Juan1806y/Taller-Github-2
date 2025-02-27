@@ -10,3 +10,4 @@ Este es un proyecto de prueba para aprender a usar Git y GitHub.
 ## Autor  
 
 Sarith Valentina Parada Ramón - 1152253
+₍^. .^₎⟆

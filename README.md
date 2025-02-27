@@ -10,4 +10,7 @@ Este es un proyecto de prueba para aprender a usar Git y GitHub.
 ## Autor  
 
 Sarith Valentina Parada Ramón - 1152253
+Juan David Ortiz Cano - 1152298
 ₍^. .^₎⟆
+
+Esta es mi modificacion a la linea, espero que genere conflicto

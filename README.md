@@ -9,4 +9,4 @@ Este es un proyecto de prueba para aprender a usar Git y GitHub.
 
 ## Autor  
 
-Juan David Ortiz Cano - 115298
+Juan David Ortiz Cano - 1152298
